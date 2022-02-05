@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin &#8211; Z(a)kusmeto</title>
-	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://zakusmeto.cz/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zakusmeto.cz/</link>
 	<description>Zelenina v Ostravě</description>
 	<lastBuildDate>Fri, 04 Feb 2022 14:17:15 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.9</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>https://zakusmeto.cz/hello-world/</link>
+					<comments>https://zakusmeto.cz/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 04 Feb 2022 14:17:15 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://zakusmeto.cz/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://zakusmeto.cz/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
